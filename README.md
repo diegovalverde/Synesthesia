@@ -12,3 +12,8 @@ Transform photo albums to cool music
 
 
 ** WORK IN PROGRESS **
+
+### Requirements
+
+`sudo apt-get install python-sklearn `
+
